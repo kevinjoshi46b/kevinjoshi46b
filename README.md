@@ -10,7 +10,6 @@ Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Lin
 
 <h2> 📬 Get in Touch </h2>
 
-- GitHub: [@KevinJ-hub](https://github.com/KevinJ-hub)
 - Linkedin: [@kevinjoshi46b](https://linkedin.com/in/kevinjoshi46b)
 - Site: Coming Soon!
 - E-mail: kevinjoshi46b@gmail.com
