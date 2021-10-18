@@ -18,6 +18,9 @@ Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Lin
 <div style="display:inline-block;">
   <image title="C" alt="C logo" src="./assets/c.png" height="40px" style="padding-right:8px;"></image>
   <image title="Python" alt="Python logo" src="./assets/python.png" height="38px" style="padding-right:8px;"></image>
+  <image title="Numpy" alt="Numpy logo" src="./assets/numpy.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Pandas" alt="Pandas logo" src="./assets/pandas.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Matplotlib" alt="Matplotlib logo" src="./assets/matplotlib.png" height="38px" style="padding-right:8px;"></image>
   <image title="HTML5" alt="HTML5 logo" src="./assets/html5.png" height="40px" style="padding-right:8px;"></image>
   <image title="CSS3" alt="CSS3 logo" src="./assets/css3.png" height="40px" style="padding-right:8px;"></image>
   <image title="Bootstrap" alt="Bootstrap logo" src="./assets/bootstrap.png" height="40px" style="padding-right:8px;"></image>
