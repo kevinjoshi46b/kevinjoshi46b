@@ -31,6 +31,7 @@ Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Lin
   <image title="MySQL" alt="MySQL logo" src="./assets/mysql.png" height="40px" style="padding-right:8px;"></image>
   <image title="mongoDB" alt="mongoDB logo" src="./assets/mongodb.png" height="40px" style="padding-right:8px;"></image>
   <image title="PostgreSQL" alt="PostgreSQL logo" src="./assets/postgres.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Docker" alt="Docker logo" src="./assets/docker.png" height="40px" style="padding-right:8px;"></image>
   <image title="Git" alt="Git logo" src="./assets/git.png" height="40px" style="padding-right:8px;"></image>
   <image title="Heroku" alt="Heroku logo" src="./assets/heroku.png" height="40px" style="padding-right:8px;"></image>
 </div>
