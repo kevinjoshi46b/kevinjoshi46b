@@ -28,6 +28,9 @@ Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Lin
   <image title="Reactjs" alt="Reactjs logo" src="./assets/react.png" height="40px" style="padding-right:8px;"></image>
   <image title="PHP" alt="PHP logo" src="./assets/php.svg" height="40px" style="padding-right:8px;"></image>
   <image title="Django" alt="Django logo" src="./assets/django.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Dart" alt="Dart logo" src="./assets/dart.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Flutter" alt="Flutter logo" src="./assets/flutter.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Firebase" alt="Firebase logo" src="./assets/firebase.png" height="40px" style="padding-right:8px;"></image>
   <image title="MySQL" alt="MySQL logo" src="./assets/mysql.png" height="40px" style="padding-right:8px;"></image>
   <image title="mongoDB" alt="mongoDB logo" src="./assets/mongodb.png" height="40px" style="padding-right:8px;"></image>
   <image title="PostgreSQL" alt="PostgreSQL logo" src="./assets/postgres.png" height="40px" style="padding-right:8px;"></image>
