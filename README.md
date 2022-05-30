@@ -5,7 +5,7 @@
 Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Linux 📈️✊🏻️ )
 
 - 🔭 Undergrad in **Information Technology**.
-- ⚙️ Mastering: `.py`, `.html`, `.css`, `.js`
+- ⚙️ Mastering: `.js`
 - 🤝️ I’m looking to collaborate on **Open Source** projects.
 
 <h2> 📬 Get in Touch </h2>
@@ -37,4 +37,9 @@ Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Lin
   <image title="Docker" alt="Docker logo" src="./assets/docker.png" height="40px" style="padding-right:8px;"></image>
   <image title="Git" alt="Git logo" src="./assets/git.png" height="40px" style="padding-right:8px;"></image>
   <image title="Heroku" alt="Heroku logo" src="./assets/heroku.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Cloudinary" alt="Cloudinary logo" src="./assets/cloudinary.svg" height="40px" style="padding-right:8px;"></image>
+  <image title="Web3.storage" alt="Web3.storage logo" src="./assets/web3.storage.png" height="40px" style="padding-right:8px;"></image>
+  <image title="IPFS" alt="IPFS logo" src="./assets/ipfs.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Ethereum" alt="Ethereum logo" src="./assets/ethereum.png" height="40px" style="padding-right:8px;"></image>
+  <image title="Solidity" alt="Solidity logo" src="./assets/solidity.png" height="40px" style="padding-right:8px;"></image>
 </div>
