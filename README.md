@@ -2,16 +2,15 @@
 
 # Hello, I'm Kevin Joshi 👋🏻️
 
-Just a guy who loves technology and spends a lot of time at 127.0.0.1 🤓 ( Linux 📈️✊🏻️ )
+Just another techie 🤓
 
 - 🔭 Undergrad in **Information Technology**.
 - ⚙️ Mastering: `.js`
-- 🤝️ I’m looking to collaborate on **Open Source** projects.
 
 <h2> 📬 Get in Touch </h2>
 
-- Linkedin: [@kevinjoshi46b](https://linkedin.com/in/kevinjoshi46b)
 - Site: Coming Soon!
+- Linkedin: [@kevinjoshi46b](https://linkedin.com/in/kevinjoshi46b)
 - E-mail: kevinjoshi46b@gmail.com
 
 <h2> 🔧 Worked with</h2>
