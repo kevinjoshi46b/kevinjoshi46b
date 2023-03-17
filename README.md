@@ -6,11 +6,6 @@ Just another techie 🤓
 
 Undergrad in **Information Technology** 👨‍💻
 
-<h2> 📬 Get in Touch </h2>
-
-- Linkedin: [@kevinjoshi46b](https://linkedin.com/in/kevinjoshi46b)
-- E-mail: kevinjoshi46b@gmail.com
-
 <h2> 🔧 Worked with</h2>
 <div style="display:inline-block;">
   <image title="Python" alt="Python logo" src="./assets/python.png" height="38px" style="padding-right:8px;"></image>
